@@ -1,0 +1,27 @@
+﻿[Project]
+ProjectName=dev-s2
+Type=2
+MainFile=dev-s2
+PassOneFile=ON
+TargetName=linux
+FocusOn=
+CompilerArgs=-asm intel
+CompilerOption=-lib
+Comment=
+CompilerPath=Z:/home/denis/app/freebasic-win64/bin/fbc.exe
+[IncludeDirs]
+[LibDirs]
+[Sources]
+name=gnu/matrix/bin/client/dev-s2.bas
+name=gnu/matrix/bin/doc/b3/wallet.bas
+name=gnu/matrix/bin/doc/coming/nextell.bas
+name=gnu/matrix/bin/doc/congress/freebasic.bas
+name=gnu/matrix/bin/doc/dogman/response.bas
+name=gnu/matrix/bin/doc/pullfull/zoom.bas
+name=gnu/matrix/bin/doc/script/fball.bas
+name=gnu/matrix/bin/server/notice/cnn.bas
+name=gnu/matrix/bin/server/universal-aid/fiscal-deficit.bas
+[Includes]
+[Others]
+[Misc]
+[Focus]

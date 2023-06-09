@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdev-s2.a CMakeFiles/dev-s2.dir/dev-s2.cpp.o
+/usr/bin/ranlib libdev-s2.a
